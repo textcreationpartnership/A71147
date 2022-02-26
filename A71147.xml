@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and wonderful account of a cure of the Kings-evil by Mrs. Fanshaw, sister to His Grace the Duke of Monmouth</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71147</idno>
+            <idno type="STC">Wing T2584</idno>
+            <idno type="STC">ESTC R16755</idno>
+            <idno type="EEBO-CITATION">09062226</idno>
+            <idno type="OCLC">ocm 09062226</idno>
+            <idno type="VID">42372</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71147)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42372)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 738:14 or 1296:55)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and wonderful account of a cure of the Kings-evil by Mrs. Fanshaw, sister to His Grace the Duke of Monmouth</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ben. Harris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>A satire.</note>
+                  <note>This item appears at reel 1296:55 as Wing T2584, and at reel 738:14 as Wing F417 (number cancelled in Wing 2nd ed.).</note>
+                  <note>Reproduction of originals in the Bodleian Library and the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fanshawe, Mary --  b. 1651 --  Humor.</term>
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685 --  Humor.</term>
+               <term>Scrofula.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:42372:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <argument>
+               <p>
+                  <add>A good ingenious shamm story to ridicule that of y<hi rend="sup">e</hi> cure done by y<hi rend="sup">e</hi> Duke in the west</add>
+               </p>
+            </argument>
+            <head>A true and wonderful Account of a <hi>CURE</hi> of the <hi>KINGS-EVIL,</hi> by Mrs. <hi>Fanſhaw,</hi> Siſter to his Grace the Duke of <hi>Monmouth.</hi> 
+               <date>
+                  <add>22. Jan. 1681/0</add>
+               </date>
+            </head>
+            <p>THE extraordinary Cure of the <hi>Kings-Evil,</hi> lately perform'd by his Grace the Duke of <hi>Monmouth,</hi> in his Weſtern Progreſs, has no doubt alarm'd many people, and open'd the eyes of the moſt unbelieving, to ſee Heaven by this Miracle proclaim his Legitimacy, and God Almighty himſelf de<g ref="char:EOLhyphen"/>clare for <hi>The Black Box.</hi> Neither has there been wanting a ſecond Teſtimony to this Illuſtrious Duke's Family, in an inſtance of a Cure both as ſtrange and as true as the former, that ſo according to the Apoſtle, <hi>Out of the mouth of two or three witneſſes every word might be eſtabliſhed.</hi> Mrs. <hi>Fanſhaw,</hi> Siſter to this moſt Excellent Prince, formerly a <hi>Roman Catholick,</hi> but ſince by the convincing Arguments, and exemplary Piety of her Husband Mr. <hi>Fanſhaw,</hi> Maſter of the Requeſts, brought over to his Religion, I mean the true ſincere <hi>Proteſtant Faith,</hi> has been as remarkable in a won<g ref="char:EOLhyphen"/>derful Cure of the ſame malignant diſtemper, as the Duke her Brother; the Truth of which whole matter of Fact, we whoſe Names are underwritten engage our ſelves to be reſponſible for. Now the matter of Fact is thus: One <hi>Janathan Trott</hi> was born of poor, but virtuous Parents; his Father was dead, but his Mother that ſur<g ref="char:EOLhyphen"/>viv'd, by the bleſſing of God accompanying her honeſt endeavours, had got toge<g ref="char:EOLhyphen"/>ther a ſum of Money very conſiderable for the Trade ſhe drove, her chief vocation being ſelling of Apples and Pears, and Oranges and other Fruit, not far from <hi>Covent-Garden</hi> Church-door; the intervals of which Calling ſhe ſtill employ'd in being very buſie with her Needle in footing Stockins, mending Breeches, and ſuch like honeſt labours. But her greateſt affliction was the ſad ſpectacle of the poor wretch her only Son and Heir, the aforementioned <hi>Jonathan Trott,</hi> who had for many years been ſore afflicted with a continual Running of a moſt noyſom Matter in his Neck, and many other parts of his Body, accompanied often with ſo great Tumours and Swellings about his Throat, as almoſt choak'd him. Upon this Son of hers, now about the age of 19. ſhe had ſpent the greateſt part of her Livelihood, to pitiful, quacking, ignorant Phyſicians, ſuch as her Purſe could beſt procure, and ſuch as kill the Poor at the moſt eaſie and conſcionable rates: Theſe her Doctors could never rightly inform her, what was her Son's true diſtemper, till at laſt ſhe her ſelf ſuſpecting it was the <hi>Kings-Evil,</hi> had the advice of ſome able Phyſicians, two where<g ref="char:EOLhyphen"/>of were Dr. <hi>Lower</hi> and Dr. <hi>Minſhell,</hi> who all agreed that it was the <hi>Kings-Evil,</hi> and that he was in very great danger, unleſs he were very ſpeedily Touch'd. This hap<g ref="char:EOLhyphen"/>pen'd to be when His Majeſty was laſt at <hi>Windſor,</hi> whither ſhe (good woman) was deſigning her Journey, with her Son: But the Night before ſhe reſolv'd on her pro<g ref="char:EOLhyphen"/>greſs, ſhe dreamt that ſhe heard a Voice that commanded her Son to be Touch'd by Mrs. <hi>Fanſhaw.</hi> The poor woman, you may imagine, was infinitely ſurpriz'd at this command, never having ſo much as heard of ſuch a woman as Mrs. <hi>Fanſhaw</hi> in her life; but ſhe was much more aſtoniſh'd when her Son came to her, and told her, that he was reſolv'd not to take any Journey to <hi>Windſor,</hi> for that he had heard a Voice that Night three times ſucceſſively, (which by the deſcription he gave of it, was the very ſame that his Mother had heard, and commanded the ſame thing) telling him, that one Touch of Mrs. <hi>Fanſhaw</hi> would make him whole. Upon this the poor woman acquainted ſeveral of her Neighbours with the unuſual circumſtances of her Dream, ſo exactly concurring with her Son's, and by them was inform'd, that there was ſuch a Lady, Siſter to his Grace the Duke of <hi>Monmouth,</hi> whom they there<g ref="char:EOLhyphen"/>fore all concluded to be the perſon intended in the Dream, by reaſon of her near Relation to his Grace, and the Crown. The youth <hi>Jonathan</hi> hearing this, was ex<g ref="char:EOLhyphen"/>treme glad, and ſhew'd violent ſigns of it, in urging and preſſing his Mother as vi<g ref="char:EOLhyphen"/>gorouſly
+<pb n="2" facs="tcp:42372:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 48 -->as ever he could, to procure her leave, who at firſt was very unwilling to let him go upon this Adventure. He ſtill inſiſted upon one Argument, which even in affliction made the poor woman ſmile, That (having heard of the Duke of <hi>Mon<g ref="char:EOLhyphen"/>mouth</hi>'s Cure, which was known long before it was publiſh'd,) he did not know why Mrs. <hi>Fanſhaw</hi> might not receive from her Mother the curing of the ills of young men by a touch of her Naked fleſh, as well as the Duke her Brother had from his Father the curing of young women by a touch of his However his Mother having check'd him for this ſaying, was reſolv'd to ſend him: Accordingly he went to Mrs. <hi>Fanſhaws</hi> Houſe, near St. <hi>James</hi>'s, and having deſir'd admiſſion, as ſoon as ever Mrs. <hi>Fanſhaw</hi> appear'd, falls down upon his knees before her, begging pardon for his boldneſs, the occaſion whereof he told her in the relation which he made of all that had happen'd to his Mother and himſelf: Then graſping her hands with all the vio<g ref="char:EOLhyphen"/>lence and paſſion imaginable, kiſs'd them a thouſand times, and directed 'em (for the Lady was not ſo uncharitable as to deny it upon ſuch an account) to his Neck, and his Throat, and all the other parts of his Body wherein he was afflicted, which ſhe vouchſafed to ſtroke, wiſhing withall that it might do him as much good as he belie<g ref="char:EOLhyphen"/>ved it would. This done, ſhe left him, and the Youth went home very well ſatisfy'd with the hopes of his being ſpeedily cur'd, as accordingly it ſucceeded: For within three days time his Running ceaſed, and in a weeks time the Swelling in his Throat was not only abated, but perfectly and entirely cur'd: And Mrs. <hi>Fanſhaw</hi> by many of this perſons Neighbours and Acquaintance, and moſt of the Apple-women, is to this day call'd <hi>Princeſs Fanſhaw.</hi>
+            </p>
+            <p>Now it is well known that this Gift of Healing was firſt imparted to King <hi>Ed<g ref="char:EOLhyphen"/>ward the Confeſſor,</hi> a good King tho'a Popiſh Saint, to deſcend upon his legitimate Succeſſors. And if none of them ever exercis'd it before they came to the Crown till now, we muſt either ſay, that they had it, but forbore the uſe of it, or elſe we muſt admire the excellency of the Advantages that <hi>Protestant</hi> Princes and Princeſ<g ref="char:EOLhyphen"/>ſes have above thoſe formerly that were <hi>Papists;</hi> ſince <hi>Proteſtants,</hi> tho' two or three removes from the Crown, can do as much with a touch, as <hi>Edward the Con<g ref="char:EOLhyphen"/>feſſor,</hi> when he was not only a King but a Saint. And now who is there that can queſtion the Legitimacy of our excellent Prince <hi>James</hi> Duke of <hi>Monmouth,</hi> when this remarkable Witneſs that Heaven hath given him and his Siſter of curing the <hi>Kings-Evil,</hi> pleads ſo loudly in his behalf? There is but one other natural Argu<g ref="char:EOLhyphen"/>ment to prove the Legitimacy of a Prince, and his being the true and right Succeſ<g ref="char:EOLhyphen"/>ſor, and that is the Inſtinct by which Lions are taught to reverence and to do them homage, without ever hurting them. And this too I am told his Grace does de<g ref="char:EOLhyphen"/>ſign to ſhew the World in his own behalf: for it is credibly reported, that on Sa<g ref="char:EOLhyphen"/>turday next the Duke of <hi>Monmouth</hi> deſigns to be ſhut up with one of the greateſt Lions in the Tower of <hi>London,</hi> there to be ſeen, to the ſatisfaction of all that behold how ſecure he muſt-needs be of his Legitimacy, that dares put it to ſo dangerous a tryal. Sir <hi>Tho. Armstrong</hi> and <hi>John Howe</hi> 
+               <abbr>Eſq</abbr> have proffer'd their ſervice to attend in the next empty Den, in quality of Bed-chamber-men to his Grace, and the Lord <hi>Shaftsbury,</hi> Lord <hi>Eſſex,</hi> Lord <hi>Grey,</hi> and ſeveral other noble Peers, have engag'd to accompany him to the place of Tryal. For my part, I wiſh for the day, not at all doubting but to ſee old <hi>Charles,</hi> the King's Lion, give him his bleſſing, by lay<g ref="char:EOLhyphen"/>ing his imperial Paw upon his Head, in which all Lions have we know by nature ſtampt the Image of a Crown. This I will anſwer for the Lion, that if he don't de<g ref="char:EOLhyphen"/>clare a true Succeſſor, yet he will ſhew another ſort of Royalty, and remove one of the worſt ſorts of the <hi>Kings-Evil.</hi>
+            </p>
+            <p>The perſons abovementioned for witneſſes of this extraordinary Cure, are we whoſe Names are ſubſcribed:</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Brandon</hi> Lord <hi>Gerard.</hi>
+                     </item>
+                     <item>Sir <hi>Gilbert Gerard.</hi>
+                     </item>
+                     <item>Colonel <hi>Langley.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Vernon</hi> 
+                        <abbr>Eſq</abbr>
+                     </item>
+                     <item>Mr. <hi>Rowe.</hi>
+                     </item>
+                     <item>Mrs. <hi>Needham.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ben. Harris</hi> at the <hi>Stationers Arms</hi> in <hi>Cornhil,</hi> 1681:</p>
+         </div>
+      </back>
+   </text>
+</TEI>
